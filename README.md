@@ -65,15 +65,13 @@
   </a> 
 </p>
 
-<table>
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td>
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santhosh-30&show_icons=true&locale=en&layout=compact" alt="santhosh-30" /></p>
+    <td style="width: 60%;">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santhosh-30&show_icons=true&locale=en&layout=compact" alt="santhosh-30" style="width: 100%;" />
     </td>
-    <td>
-      <p align="right">
-        <img src="https://github.com/Santhosh-30/Santhosh-30/blob/main/61daddaa-b94d-497f-a682-58ac90cbffa4.gif" alt="Lottie Animation" width="400px" />
-      </p>
+    <td style="width: 40%; text-align: right;">
+      <img src="https://github.com/Santhosh-30/Santhosh-30/blob/main/61daddaa-b94d-497f-a682-58ac90cbffa4.gif" alt="Lottie Animation" width="350px" />
     </td>
   </tr>
 </table>

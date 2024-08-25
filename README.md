@@ -65,13 +65,11 @@
   </a> 
 </p>
 
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="width: 60%;">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santhosh-30&show_icons=true&locale=en&layout=compact" alt="santhosh-30" style="width: 100%;" />
-    </td>
-    <td style="width: 40%; text-align: right;">
-      <img src="https://github.com/Santhosh-30/Santhosh-30/blob/main/61daddaa-b94d-497f-a682-58ac90cbffa4.gif" alt="Lottie Animation" width="350px" />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+
+</p>
+
+<p align="right" style="margin-left: 20px;">
+  <img src="https://github.com/Santhosh-30/Santhosh-30/blob/main/61daddaa-b94d-497f-a682-58ac90cbffa4.gif" alt="Lottie Animation" width="350px" />
+</p>

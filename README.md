@@ -65,9 +65,8 @@
   </a> 
 </p>
 
-<p align="center">
-  <img src="https://github.com/Santhosh-30/Santhosh-30/blob/main/61daddaa-b94d-497f-a682-58ac90cbffa4.gif" alt="Lottie Animation" />
+<p align="right">
+  <img src="https://github.com/Santhosh-30/Santhosh-30/blob/main/61daddaa-b94d-497f-a682-58ac90cbffa4.gif" alt="Lottie Animation" width="300px" />
 </p>
-
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santhosh-30&show_icons=true&locale=en&layout=compact" alt="santhosh-30" /></p>

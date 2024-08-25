@@ -66,10 +66,10 @@
 </p>
 
 <p align="left">
-  <img alt="Coder GIF" height=250 width=350 src=""https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"" />
-
-</p>
-
-<p align="right" style="margin-left: 20px;">
+  <p align="right" style="margin-left: 20px;">
   <img src="https://github.com/Santhosh-30/Santhosh-30/blob/main/61daddaa-b94d-497f-a682-58ac90cbffa4.gif" alt="Lottie Animation" width="350px" />
 </p>
+
+</p>
+
+

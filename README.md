@@ -66,10 +66,9 @@
 </p>
 
 <p align="left">
-  <p align="right" style="margin-left: 20px;">
+ 
   <img src="https://github.com/Santhosh-30/Santhosh-30/blob/main/61daddaa-b94d-497f-a682-58ac90cbffa4.gif" alt="Lottie Animation" width="350px" />
 </p>
 
-</p>
 
 

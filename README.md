@@ -55,34 +55,6 @@
 
 ---
 
-<h2 align="center">📂 Projects</h2>
-<div align="center">
-  <ul>
-    <li><a href="https://github.com/Santhosh-30/project1" target="_blank">Project 1: Awesome Web App</a> - A web application that does amazing things.</li>
-    <li><a href="https://github.com/Santhosh-30/project2" target="_blank">Project 2: Cool API</a> - An API that provides cool data.</li>
-    <li><a href="https://github.com/Santhosh-30/project3" target="_blank">Project 3: Mobile App</a> - A mobile application that helps users.</li>
-  </ul>
-</div>
-
----
-
-<h2 align="center">✨ A Little About Me</h2>
-<p align="center">"Passionate about coding and always eager to learn new technologies!"</p>
-<p align="center">I am a software developer with a love for creating dynamic and responsive web applications. I enjoy tackling challenges and continuously improving my skills.</p>
-
----
-
-<h2 align="center">🎉 Fun Facts</h2>
-<div align="center">
-  <ul>
-    <li>🌍 I love traveling and exploring new cultures.</li>
-    <li>🎮 I enjoy playing video games in my free time.</li>
-    <li>📚 I am an avid reader and enjoy books on technology and fiction.</li>
-  </ul>
-</div>
-
----
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Santhosh-30/count.svg?" />
 </div>
@@ -92,3 +64,8 @@
 <div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
 </div>
+
+---
+
+<h2 align="center">✨ A Little About Me</h2>
+<p align="center">"Passionate about coding and always eager to learn new technologies!"</p>

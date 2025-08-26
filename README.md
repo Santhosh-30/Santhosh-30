@@ -101,7 +101,6 @@ const santhosh = {
 
 ## 🛠️ Tech Arsenal
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="200"/>
 
 </div>
 
@@ -144,11 +143,9 @@ const santhosh = {
 
 
 <!-- Snake Animation -->
-<div align="center">
-  
-![Snake animation](https://github.com/Santhosh-30/Santhosh-30/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -334,15 +331,6 @@ const santhosh = {
 
 <div align="center">
 
-## 🎵 Currently Coding To
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31k6txkjt2zp4o2p6xiqzm4nqbcq)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
 
 ## 🚀 What's Next?
 
@@ -410,7 +398,5 @@ const santhosh = {
 ⭐ **From [Santhosh-30](https://github.com/Santhosh-30)** ⭐
 
 *Made with ❤️, lots of ☕, and endless curiosity* 
-
-**Last Updated: August 2025**
 
 </div>
